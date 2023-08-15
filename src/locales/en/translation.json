@@ -1,0 +1,20 @@
+{
+    "error": {
+        "not_found": "Page not found",
+        "required": "{{label}} is required!"
+    },
+    "comment": {
+        "create": {
+            "commentable_id": {
+                "number": "{{label}} must be number!"
+            },
+            "success": "Comment create success!"
+        }
+    },
+    "auth": {
+        "unauth": "Unauthenticated!",
+        "login": {
+            "success": "Login success!"
+        }
+    }
+}
