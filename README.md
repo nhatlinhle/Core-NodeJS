@@ -9,8 +9,9 @@ git clone https://github.com/nhatlinhle/Core-NodeJS.git
 cd Core-NodeJS
 npm install
 ```
+```
 Copy .env.example to .env and set config your local
-
+```
 Run local:
 ```bash
 npm run dev
