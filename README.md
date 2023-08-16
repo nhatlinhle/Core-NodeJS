@@ -36,6 +36,6 @@ src\
   |--uploads\        # Save files uploaded or use the cloud
   |--validations\    # Request data validation schemas
   |--index.ts        # App entry point
-  tests\
+tests\
   |--unit            # Files test for unit test
 ```
